@@ -50,7 +50,8 @@ lambda kv:(kv[1], kv[0])))
 ```
 
 ## Sample Output
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f75f0f34-78dc-47b2-aed8-1e3d4801b59c)
+
 
 ## Result
 Thus,the program has been executed successfully.
